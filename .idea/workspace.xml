@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d24ad38-aade-48fe-b4f7-b11a4a8292ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XycRqF5oN5pOrFnadWu7csRIl0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djawesome" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dashboard/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.peptalk">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="peptalk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dashboard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dashboard/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="peptalk" type="Python.DjangoServer" factoryName="Django server" singleton="false">
+      <module name="peptalk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="peptalk.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.peptalk" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d24ad38-aade-48fe-b4f7-b11a4a8292ce" name="Default Changelist" comment="" />
+      <created>1582021769645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582021769645</updated>
+      <workItem from="1582021783845" duration="2883000" />
+      <workItem from="1582042657526" duration="1387000" />
+      <workItem from="1582093758708" duration="774000" />
+      <workItem from="1582107721781" duration="609000" />
+      <workItem from="1582174521500" duration="2764000" />
+      <workItem from="1582177375612" duration="577000" />
+      <workItem from="1582177963197" duration="1170000" />
+      <workItem from="1582179223765" duration="440000" />
+      <workItem from="1582179673759" duration="15416000" />
+      <workItem from="1582215435918" duration="2896000" />
+      <workItem from="1582269572547" duration="8000" />
+      <workItem from="1582460706713" duration="1934000" />
+      <workItem from="1582471361324" duration="4090000" />
+      <workItem from="1582518785290" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582180727484">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.987@0.34.1920.987" timestamp="1582180727484" />
+    <state x="658" y="90" width="1005" height="873" key="#xdebugger.evaluate" timestamp="1582180776434">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="658" y="90" width="1005" height="873" key="#xdebugger.evaluate/0.34.1920.987@0.34.1920.987" timestamp="1582180776433" />
+    <state x="633" y="120" width="644" height="814" key="EnvironmentVariablesDialog" timestamp="1582177333625">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="633" y="120" width="644" height="814" key="EnvironmentVariablesDialog/0.34.1920.987@0.34.1920.987" timestamp="1582177333625" />
+    <state x="690" y="224" width="530" height="605" key="FileChooserDialogImpl" timestamp="1582464209759">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="690" y="224" width="530" height="605" key="FileChooserDialogImpl/0.34.1920.987@0.34.1920.987" timestamp="1582464209759" />
+    <state width="1840" height="309" key="GridCell.Tab.0.bottom" timestamp="1582197771002">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.0.bottom/0.34.1920.987@0.34.1920.987" timestamp="1582197771002" />
+    <state width="1840" height="309" key="GridCell.Tab.0.center" timestamp="1582197771002">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.0.center/0.34.1920.987@0.34.1920.987" timestamp="1582197771002" />
+    <state width="1840" height="309" key="GridCell.Tab.0.left" timestamp="1582197771002">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.0.left/0.34.1920.987@0.34.1920.987" timestamp="1582197771002" />
+    <state width="1840" height="309" key="GridCell.Tab.0.right" timestamp="1582197771002">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.0.right/0.34.1920.987@0.34.1920.987" timestamp="1582197771002" />
+    <state width="1840" height="309" key="GridCell.Tab.1.bottom" timestamp="1582197771004">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.1.bottom/0.34.1920.987@0.34.1920.987" timestamp="1582197771004" />
+    <state width="1840" height="309" key="GridCell.Tab.1.center" timestamp="1582197771003">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.1.center/0.34.1920.987@0.34.1920.987" timestamp="1582197771003" />
+    <state width="1840" height="309" key="GridCell.Tab.1.left" timestamp="1582197771003">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.1.left/0.34.1920.987@0.34.1920.987" timestamp="1582197771003" />
+    <state width="1840" height="309" key="GridCell.Tab.1.right" timestamp="1582197771003">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="1840" height="309" key="GridCell.Tab.1.right/0.34.1920.987@0.34.1920.987" timestamp="1582197771003" />
+    <state x="333" y="74" key="SettingsEditor" timestamp="1582177256223">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="333" y="74" key="SettingsEditor/0.34.1920.987@0.34.1920.987" timestamp="1582177256223" />
+    <state width="623" height="537" key="SwitcherDM" timestamp="1582177945112">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state width="623" height="537" key="SwitcherDM/0.34.1920.987@0.34.1920.987" timestamp="1582177945112" />
+    <state x="532" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1582518789900">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="532" y="311" key="com.intellij.ide.util.TipDialog/0.34.1920.987@0.34.1920.987" timestamp="1582518789900" />
+    <state x="386" y="160" width="1137" height="733" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582176906286">
+      <screen x="0" y="34" width="1920" height="987" />
+    </state>
+    <state x="386" y="160" width="1137" height="733" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.34.1920.987@0.34.1920.987" timestamp="1582176906286" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/peptalk$views.coverage" NAME="views Coverage Results" MODIFIED="1582177293811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dashboard" />
+  </component>
+</project>
