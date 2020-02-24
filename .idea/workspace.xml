@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d24ad38-aade-48fe-b4f7-b11a4a8292ce" name="Default Changelist" comment="" />
+    <list default="true" id="3d24ad38-aade-48fe-b4f7-b11a4a8292ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boards/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boards/templates/boards/boards_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boards/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boards/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boards/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peptalk/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/peptalk/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +23,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XycRqF5oN5pOrFnadWu7csRIl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../djawesome" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -129,7 +143,7 @@
       <workItem from="1582269572547" duration="8000" />
       <workItem from="1582460706713" duration="1934000" />
       <workItem from="1582471361324" duration="4090000" />
-      <workItem from="1582518785290" duration="998000" />
+      <workItem from="1582518785290" duration="4333000" />
     </task>
     <servers />
   </component>
